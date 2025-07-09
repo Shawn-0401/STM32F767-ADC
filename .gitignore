@@ -1,0 +1,25 @@
+# Build files
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# IDE files
+.settings/
+.cproject
+.project
+.mxproject
+*.launch
+
+# VSCode/JetBrains settings
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
+.DS_Store
